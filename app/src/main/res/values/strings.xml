@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">track</string>
+    <string name="register">register</string>
+    <string name="not_registered">not-registered</string>
+    <string name="login">login</string>
+    <string name="password">password</string>
+    <string name="username">username</string>
+    <string name="confirm_password">confirm_password</string>
+    <string name="already_registered">Already Registered</string>
+    <string name="welcome_user">Welcome User</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_maps2">Map</string>
+</resources>
